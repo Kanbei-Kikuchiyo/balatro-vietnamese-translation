@@ -1,6 +1,6 @@
 [![Balatro](https://www.playbalatro.com/assets/logo2-C9SU2BrI.png)](https://www.playbalatro.com/)
 
-# Balatro Vietnamese Translation
+# Balatro Vietnamese 🇻🇳 Translation
 
 A humble community-made version of the Vietnamese translation of Balatro.
 
