@@ -11,10 +11,10 @@ A humble community-made version of the Vietnamese translation of Balatro.
 ### On Windows
 
 1click installation
-TBD
+TBD%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 Manual installation
-TBD
+TBD%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 ## Current state
 
@@ -31,13 +31,13 @@ Thanks to the:
 
 ## Contributing
 
-Contributions are always welcome! You can send us a message on [**Discord** (TBD)](AJOUTER URL MOD DICORD) to share feedback, debate translations, and learn more about how we made it.
+Contributions are always welcome! You can send us a message on [**Discord** (TBD%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%)](AJOUTER URL MOD DICORD%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%) to share feedback, debate translations, and learn more about how we made it.
 
 If you are interested in replicating the same work for another language, **feel free to fork this repository**!
 
 ## Contributors
 
-David Lefebvre (Kanbei) for the technical part, ASK HIS NAME (Yami) for the translation part.
+David Lefebvre (Kanbei) for the technical part, ASK HIS NAME%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% (Yami) for the translation part.
 
 ## License
 
