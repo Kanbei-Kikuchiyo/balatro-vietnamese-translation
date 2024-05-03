@@ -11,7 +11,7 @@ A humble community-made version of the Vietnamese translation of Balatro.
 ### On Windows
 
 Automatic installation:
-- download VietnameseLocalization_v1.0.1.zip here: https://github.com/Kanbei-Kikuchiyo/balatro-vietnamese-translation/releases/download/v1.0.1/VietnameseLocalization_v1.0.1.zip (or from the release page: https://github.com/Kanbei-Kikuchiyo/balatro-vietnamese-translation/releases/tag/v1.0.1)
+- download VietnameseLocalization_v1.0.1.zip [here](https://github.com/Kanbei-Kikuchiyo/balatro-vietnamese-translation/releases/download/v1.0.1/VietnameseLocalization_v1.0.1.zip) (or from the release page: https://github.com/Kanbei-Kikuchiyo/balatro-vietnamese-translation/releases/tag/v1.0.1)
 - unzip it
 - click on the cmd file (VietnameseLocalization_v1.0.1.cmd) and follow the instructions
 
