@@ -11,14 +11,14 @@ A humble community-made version of the Vietnamese translation of Balatro.
 ### On Windows
 
 Automatic installation:
-- download VietnameseLocalization_v1.0.1.zip [here](https://github.com/Kanbei-Kikuchiyo/balatro-vietnamese-translation/releases/download/v1.0.1/VietnameseLocalization_v1.0.1.zip) (or from the release page: https://github.com/Kanbei-Kikuchiyo/balatro-vietnamese-translation/releases/tag/v1.0.1)
+- download VietnameseLocalization_v1.0.1.zip [here](https://github.com/Kanbei-Kikuchiyo/balatro-vietnamese-translation/releases/download/v1.0.1/VietnameseLocalization_v1.0.1.zip) (or from the [release page](https://github.com/Kanbei-Kikuchiyo/balatro-vietnamese-translation/releases/tag/v1.0.1))
 - unzip it
 - click on the cmd file (VietnameseLocalization_v1.0.1.cmd) and follow the instructions
 
 Manual installation:
-- download VietnameseLocalization_v1.0.1.zip here: https://github.com/Kanbei-Kikuchiyo/balatro-vietnamese-translation/releases/download/v1.0.1/VietnameseLocalization_v1.0.1.zip (or from the release page: https://github.com/Kanbei-Kikuchiyo/balatro-vietnamese-translation/releases/tag/v1.0.1)
+- download VietnameseLocalization_v1.0.1.zip [here](https://github.com/Kanbei-Kikuchiyo/balatro-vietnamese-translation/releases/download/v1.0.1/VietnameseLocalization_v1.0.1.zip) (or from the [release page](https://github.com/Kanbei-Kikuchiyo/balatro-vietnamese-translation/releases/tag/v1.0.1))
 - unzip it
-- put the file *version.dll* into the same folder as *Balatro.exe* (you can also download the last version of the Lovely injector here: https://github.com/ethangreen-dev/lovely-injector/releases/)
+- put the file *version.dll* into the same folder as *Balatro.exe* (you can also download the last version of the Lovely injector [here](https://github.com/ethangreen-dev/lovely-injector/releases/)
 - press ⊞ Win+R to open the Run command, write %appdata% and press Enter, then go to the folder \AppData\Roaming\Balatro and paste the content of the Balatro folder from the mod in it
 
 ## Current state
@@ -29,9 +29,9 @@ Manual installation:
 
 ## Thanks
 Thanks to the:
-- *Better French mod* community (https://github.com/FrBmt-BIGetNouf/balatro-french-translations), for their help in better understanding how the code of the game is working (the template for this readme is from them): Robin Lassire, Gabriel Rodrigues, Pierre-Alexandre Rouillon, Stanislas Signoud (Signez), Bastien Luneteau, Quentin Furtys, Nicolas Cordier, François Beaumont,
-- *ProperRussian mod* (https://github.com/Nitablade/Balatro_ProperRussian): where I took inspiration for the 1click installer using Lovely,
-- the team behind *Lovely* -Ethan Green, tetraminus- (https://github.com/ethangreen-dev/lovely-injector), the runtime lua injector for LÖVE 2d used for this mod (note to me in the future: add an automatic download of their last version of Lovely for the mod),
+- *Better French mod* community ([link](https://github.com/FrBmt-BIGetNouf/balatro-french-translations)), for their help in better understanding how the code of the game is working (the template for this readme is from them): Robin Lassire, Gabriel Rodrigues, Pierre-Alexandre Rouillon, Stanislas Signoud (Signez), Bastien Luneteau, Quentin Furtys, Nicolas Cordier, François Beaumont,
+- *ProperRussian mod* ([link](https://github.com/Nitablade/Balatro_ProperRussian)): where I took inspiration for the 1click installer using Lovely,
+- the team behind *Lovely* -Ethan Green, tetraminus- ()[link](https://github.com/ethangreen-dev/lovely-injector)), the runtime lua injector for LÖVE 2d used for this mod (note to me in the future: add an automatic download of their last version of Lovely for the mod),
 - LocalThunk, the solo developer of the Balatro game, for this awesome addictive game.
 
 ## Contributing
