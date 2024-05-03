@@ -10,14 +10,20 @@ A humble community-made version of the Vietnamese translation of Balatro.
 
 ### On Windows
 
-If you are on Windows:
+Automatic installation:
 - download VietnameseLocalization_v1.0.1.zip here: https://github.com/Kanbei-Kikuchiyo/balatro-vietnamese-translation/releases/download/v1.0.1/VietnameseLocalization_v1.0.1.zip (or from the release page: https://github.com/Kanbei-Kikuchiyo/balatro-vietnamese-translation/releases/tag/v1.0.1)
 - unzip it
 - click on the cmd file (VietnameseLocalization_v1.0.1.cmd) and follow the instructions
 
+Manual installation:
+- download VietnameseLocalization_v1.0.1.zip here: https://github.com/Kanbei-Kikuchiyo/balatro-vietnamese-translation/releases/download/v1.0.1/VietnameseLocalization_v1.0.1.zip (or from the release page: https://github.com/Kanbei-Kikuchiyo/balatro-vietnamese-translation/releases/tag/v1.0.1)
+- unzip it
+- put the file *version.dll* into the same folder as *Balatro.exe* (you can also download the last version of the Lovely injector here: https://github.com/ethangreen-dev/lovely-injector/releases/)
+- press ⊞ Win+R to open the Run command, write %appdata% and press Enter, then go to the folder \AppData\Roaming\Balatro and paste the content of the Balatro folder from the mod in it
+
 ## Current state
 
-### Translations
+### Translation
 
 ✅ v1.0.1f-FULL — 100% of the game texts is translated in Vietnamese (the sprites are still in English).
 
@@ -30,7 +36,7 @@ Thanks to the:
 
 ## Contributing
 
-Contributions are always welcome! You can send us a message on [**Discord** (TBD) to share feedback, debate translations, and learn more about how we made it.
+Contributions are always welcome! You can send us a message on [**Discord** (TBD) to share feedback, debate translation, and learn more about how we made it.
 
 If you are interested in replicating the same work for another language, **feel free to fork this repository**!
 
