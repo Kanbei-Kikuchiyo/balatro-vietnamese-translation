@@ -25,13 +25,13 @@ Manual installation:
 
 ### Translation
 
-✅ v1.0.1f-FULL — 100% of the game texts is translated in Vietnamese (the sprites are still in English).
+✅ v1.0.1f-FULL — 100% of the game texts are translated into Vietnamese (the sprites are still in English).
 
 ## Thanks
 Thanks to the:
-- *Better French mod* community (https://github.com/FrBmt-BIGetNouf/balatro-french-translations), for their help on better understanding how the code of the game is working (the template for this readme is from them): Robin Lassire, Gabriel Rodrigues, Pierre-Alexandre Rouillon, Stanislas Signoud (Signez), Bastien Luneteau, Quentin Furtys, Nicolas Cordier, François Beaumont,
+- *Better French mod* community (https://github.com/FrBmt-BIGetNouf/balatro-french-translations), for their help in better understanding how the code of the game is working (the template for this readme is from them): Robin Lassire, Gabriel Rodrigues, Pierre-Alexandre Rouillon, Stanislas Signoud (Signez), Bastien Luneteau, Quentin Furtys, Nicolas Cordier, François Beaumont,
 - *ProperRussian mod* (https://github.com/Nitablade/Balatro_ProperRussian): where I took inspiration for the 1click installer using Lovely,
-- team behind *Lovely* -Ethan Green, tetraminus- (https://github.com/ethangreen-dev/lovely-injector), the runtime lua injector for LÖVE 2d used for this mod (note to myself in the future: add an automatic download of their last version of Lovely for the mod),
+- the team behind *Lovely* -Ethan Green, tetraminus- (https://github.com/ethangreen-dev/lovely-injector), the runtime lua injector for LÖVE 2d used for this mod (note to me in the future: add an automatic download of their last version of Lovely for the mod),
 - LocalThunk, the solo developer of the Balatro game, for this awesome addictive game.
 
 ## Contributing
