@@ -17,7 +17,7 @@ set "balatroPath=C:\Program Files (x86)\Steam\steamapps\Balatro"
 :: If it doesn't exist, open the explorer to manually select Balatro.exe
 if not exist "!steamLibraryFile!" (
     echo.
-    echo Oops, I couldn't fin Balatro.exe. Please tell me where to find it
+    echo Oops, I couldn't find Balatro.exe. Please tell me where to find it
 
     set "balatroFile="
     set "dialogTitle=Select balatro.exe"
