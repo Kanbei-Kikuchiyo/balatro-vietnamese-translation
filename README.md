@@ -18,7 +18,7 @@ Automatic installation:
 Manual installation:
 - download VietnameseLocalization_v1.0.1.zip [here](https://github.com/Kanbei-Kikuchiyo/balatro-vietnamese-translation/releases/download/v1.0.1/VietnameseLocalization_v1.0.1.zip) (or from the [release page](https://github.com/Kanbei-Kikuchiyo/balatro-vietnamese-translation/releases/tag/v1.0.1))
 - unzip it
-- put the file *version.dll* into the same folder as *Balatro.exe* (you can also download the last version of the Lovely injector [here](https://github.com/ethangreen-dev/lovely-injector/releases/)
+- put the file *version.dll* into the same folder as *Balatro.exe* (you can also download the last version of the Lovely injector [here](https://github.com/ethangreen-dev/lovely-injector/releases/))
 - press ⊞ Win+R to open the Run command, write *%appdata%* and press Enter, then go to the folder *\AppData\Roaming\Balatro* and paste the content of the Balatro folder from the mod in it
 
 ## Current state
