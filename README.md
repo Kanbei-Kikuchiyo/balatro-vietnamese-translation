@@ -1,6 +1,6 @@
 [![Balatro](https://www.playbalatro.com/assets/logo2-C9SU2BrI.png)](https://www.playbalatro.com/)
 
-**🇬🇧 English below ↓**
+**🇬🇧 English below [↓](https://github.com/Kanbei-Kikuchiyo/balatro-vietnamese-translation?tab=readme-ov-file#balatro-vietnamese--translation)**
 
 # Balatro Bản Việt hóa 🇻🇳
 
