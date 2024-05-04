@@ -1,6 +1,6 @@
 [![Balatro](https://www.playbalatro.com/assets/logo2-C9SU2BrI.png)](https://www.playbalatro.com/)
 
-English below
+*🇬🇧 English below*
 
 # Balatro Bản Việt hóa 🇻🇳
 
@@ -51,7 +51,9 @@ Yami đóng góp mảng phiên dịch, David Lefebvre (Kanbei) đóng góp mản
 
 Dự án này (**ngoại trừ những tranh ảnh được lấy hoặc mang ý tưởng từ tựa game Balatro**) được cấp phép dưới Chứng chỉ MIT - xem file [LICENSE](LICENSE) để biết thêm chi tiết.
 
+
 ---
+
 
 # Balatro Vietnamese 🇻🇳 Translation
 
