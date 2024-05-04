@@ -1,5 +1,58 @@
 [![Balatro](https://www.playbalatro.com/assets/logo2-C9SU2BrI.png)](https://www.playbalatro.com/)
 
+English below
+
+# Balatro Bản Việt hóa 🇻🇳
+
+Một phiên bản Việt hóa khiêm tốn được cộng đồng tạo ra cho tựa game Balatro.
+
+*Tìm hiểu thêm về Balatro qua [playbalatro.com](https://www.playbalatro.com/), và hãy mua game để ủng hộ nhà phát triển!*
+
+## Làm sao để cài đặt mod này?
+
+### Trên Windows
+
+Cài đặt tự động:
+- Tải file VietnameseLocalization_v1.0.1.zip [ở đây](https://github.com/Kanbei-Kikuchiyo/balatro-vietnamese-translation/releases/download/v1.0.1/VietnameseLocalization_v1.0.1.zip) (hoặc là từ [trang gốc](https://github.com/Kanbei-Kikuchiyo/balatro-vietnamese-translation/releases/tag/v1.0.1))
+- Giải nén file
+- Mở file cmd (VietnameseLocalization_v1.0.1.cmd) và làm theo hướng dẫn
+
+Cài đặt thủ công:
+- Tải file VietnameseLocalization_v1.0.1.zip [ở đây](https://github.com/Kanbei-Kikuchiyo/balatro-vietnamese-translation/releases/download/v1.0.1/VietnameseLocalization_v1.0.1.zip) (hoặc là từ [trang gốc](https://github.com/Kanbei-Kikuchiyo/balatro-vietnamese-translation/releases/tag/v1.0.1))
+- Giải nén file
+- Chuyển file *version.dll* vào thư mục chứa *Balatro.exe* (bạn cũng có thể tải phiên bản mới nhất của phần mềm chuyển Lovely) [ở đây](https://github.com/ethangreen-dev/lovely-injector/releases/))
+- Bấm tổ hợp Win+R để mở cửa sổ Run, gõ *%appdata%* và bấm Enter, sau đó mở thư mục *\AppData\Roaming\Balatro* và dán nội dung của thư mục của bản mod Balatro vào đó
+
+## Tình trạng hiện tại
+
+### Bản dịch
+
+✅ v1.0.1f-FULL – (Gần như) 100% từ ngữ trong game đã được dịch sang tiếng Việt (hình ảnh trong game vẫn ở tiếng Anh).
+
+## Cảm ơn
+Chân thành cảm ơn tới:
+- Cộng đồng *Better French mod* ([link](https://github.com/FrBmt-BIGetNouf/balatro-french-translations)), nhờ sự giúp đỡ của họ mà chúng tôi hiểu rõ được cách các dòng lệnh trong game hoạt động (bản mẫu phần readme này là của họ): Robin Lassire, Gabriel Rodrigues, Pierre-Alexandre Rouillon, Stanislas Signoud (Signez), Bastien Luneteau, Quentin Furtys, Nicolas Cordier, FranĂ§ois Beaumont,
+- *ProperRussian mod* ([link](https://github.com/Nitablade/Balatro_ProperRussian)): nơi tôi có ý tưởng tạo ra phần cài đặt tự động sử dụng Lovely,
+- Đội ngũ phát triển *Lovely* -Ethan Green, tetraminus- ([link](https://github.com/ethangreen-dev/lovely-injector)), phần mềm chuyển runtime lua cho LĂ–VE 2d được dùng cho mod này (ghi chú cho tương lai: thêm phần mềm tự động tải xuống phiên bản mới nhất của Lovely cho bản mod),
+- LocalThunk - nhà phát triển độc lập của Balatro, vì con game cực hay này.
+
+
+## Góp ý
+
+Chúng tôi luôn hoan nghênh góp ý của các bạn! Bạn có thể gửi tin nhắn qua [**Discord** (TBD) để chia sẻ ý kiến, bàn luận về bản dịch và tìm hiểu cách chúng tôi tạo ra bản mod này.
+
+Nếu bạn có hứng thú tạo ra bản mod tương tự cho một ngôn ngữ khác, **cứ tự nhiên tạo bản sao của repository này**!
+
+## Đội ngũ phát triển
+
+Yami đóng góp mảng phiên dịch, David Lefebvre (Kanbei) đóng góp mảng kỹ thuật.
+
+## Chứng chỉ
+
+Dự án này (**ngoại trừ những tranh ảnh được lấy hoặc mang ý tưởng từ tựa game Balatro**) được cấp phép dưới Chứng chỉ MIT - xem file [LICENSE](LICENSE) để biết thêm chi tiết.
+
+---
+
 # Balatro Vietnamese 🇻🇳 Translation
 
 A humble community-made version of the Vietnamese translation of Balatro.
@@ -42,7 +95,7 @@ If you are interested in replicating the same work for another language, **feel 
 
 ## Contributors
 
-David Lefebvre (Kanbei) for the technical part, TBD (Yami) for the translation part.
+Yami for the translation part, David Lefebvre (Kanbei) for the technical part.
 
 ## License
 
