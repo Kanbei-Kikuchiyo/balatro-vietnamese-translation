@@ -31,9 +31,9 @@ Cài đặt thủ công:
 
 ## Cảm ơn
 Chân thành cảm ơn tới:
-- Cộng đồng *Better French mod* ([link](https://github.com/FrBmt-BIGetNouf/balatro-french-translations)), nhờ sự giúp đỡ của họ mà chúng tôi hiểu rõ được cách các dòng lệnh trong game hoạt động (bản mẫu phần readme này là của họ): Robin Lassire, Gabriel Rodrigues, Pierre-Alexandre Rouillon, Stanislas Signoud (Signez), Bastien Luneteau, Quentin Furtys, Nicolas Cordier, FranĂ§ois Beaumont,
+- Cộng đồng *Better French mod* ([link](https://github.com/FrBmt-BIGetNouf/balatro-french-translations)), nhờ sự giúp đỡ của họ mà chúng tôi hiểu rõ được cách các dòng lệnh trong game hoạt động (bản mẫu phần readme này là của họ): Robin Lassire, Gabriel Rodrigues, Pierre-Alexandre Rouillon, Stanislas Signoud (Signez), Bastien Luneteau, Quentin Furtys, Nicolas Cordier, François Beaumont,
 - *ProperRussian mod* ([link](https://github.com/Nitablade/Balatro_ProperRussian)): nơi tôi có ý tưởng tạo ra phần cài đặt tự động sử dụng Lovely,
-- Đội ngũ phát triển *Lovely* -Ethan Green, tetraminus- ([link](https://github.com/ethangreen-dev/lovely-injector)), phần mềm chuyển runtime lua cho LĂ–VE 2d được dùng cho mod này (ghi chú cho tương lai: thêm phần mềm tự động tải xuống phiên bản mới nhất của Lovely cho bản mod),
+- Đội ngũ phát triển *Lovely* -Ethan Green, tetraminus- ([link](https://github.com/ethangreen-dev/lovely-injector)), phần mềm chuyển runtime lua cho LÖVE 2d được dùng cho mod này (ghi chú cho tương lai: thêm phần mềm tự động tải xuống phiên bản mới nhất của Lovely cho bản mod),
 - LocalThunk - nhà phát triển độc lập của Balatro, vì con game cực hay này.
 
 
