@@ -39,7 +39,7 @@ Chân thành cảm ơn tới:
 
 ## Góp ý
 
-Chúng tôi luôn hoan nghênh góp ý của các bạn! Bạn có thể gửi tin nhắn qua [**Discord** (TBD) để chia sẻ ý kiến, bàn luận về bản dịch và tìm hiểu cách chúng tôi tạo ra bản mod này.
+Chúng tôi luôn hoan nghênh góp ý của các bạn! Bạn có thể gửi tin nhắn qua [**Discord** (https://discord.com/channels/1116389027176787968/1236635745314148373) để chia sẻ ý kiến, bàn luận về bản dịch và tìm hiểu cách chúng tôi tạo ra bản mod này.
 
 Nếu bạn có hứng thú tạo ra bản mod tương tự cho một ngôn ngữ khác, **cứ tự nhiên tạo bản sao của repository này**!
 
@@ -91,7 +91,7 @@ Thanks to the:
 
 ## Contributing
 
-Contributions are always welcome! You can send us a message on [**Discord** (TBD) to share feedback, debate translation, and learn more about how we made it.
+Contributions are always welcome! You can send us a message on [**Discord** (https://discord.com/channels/1116389027176787968/1236635745314148373) to share feedback, debate translation, and learn more about how we made it.
 
 If you are interested in replicating the same work for another language, **feel free to fork this repository**!
 
