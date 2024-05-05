@@ -21,7 +21,7 @@ Cài đặt thủ công:
 - Tải file VietnameseLocalization_v1.0.1.zip [ở đây](https://github.com/Kanbei-Kikuchiyo/balatro-vietnamese-translation/releases/download/v1.0.1/VietnameseLocalization_v1.0.1.zip) (hoặc là từ [trang gốc](https://github.com/Kanbei-Kikuchiyo/balatro-vietnamese-translation/releases/tag/v1.0.1))
 - Giải nén file
 - Chuyển file *version.dll* vào thư mục chứa *Balatro.exe* (bạn cũng có thể tải phiên bản mới nhất của phần mềm chuyển Lovely) [ở đây](https://github.com/ethangreen-dev/lovely-injector/releases/))
-- Bấm tổ hợp Win+R để mở cửa sổ Run, gõ '*%appdata%*' và bấm Enter, sau đó mở thư mục '*\AppData\Roaming\Balatro*' và dán nội dung của thư mục của bản mod Balatro vào đó
+- Bấm tổ hợp Win+R để mở cửa sổ Run, gõ `*%appdata%*` và bấm Enter, sau đó mở thư mục `*\AppData\Roaming\Balatro*` và dán nội dung của thư mục của bản mod Balatro vào đó
 
 ## Tình trạng hiện tại
 
@@ -74,7 +74,7 @@ Manual installation:
 - download VietnameseLocalization_v1.0.1.zip [here](https://github.com/Kanbei-Kikuchiyo/balatro-vietnamese-translation/releases/download/v1.0.1/VietnameseLocalization_v1.0.1.zip) (or from the [release page](https://github.com/Kanbei-Kikuchiyo/balatro-vietnamese-translation/releases/tag/v1.0.1))
 - unzip it
 - put the file *version.dll* into the same folder as *Balatro.exe* (you can also download the last version of the Lovely injector [here](https://github.com/ethangreen-dev/lovely-injector/releases/))
-- press ⊞ Win+R to open the Run command, write *%appdata%* and press Enter, then go to the folder *\AppData\Roaming\Balatro* and paste the content of the Balatro folder from the mod in it
+- press ⊞ Win+R to open the Run command, write `*%appdata%*` and press Enter, then go to the folder `*\AppData\Roaming\Balatro*` and paste the content of the Balatro folder from the mod in it
 
 ## Current state
 
